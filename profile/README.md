@@ -2,9 +2,9 @@
 
 # 👋 Hey there! We're Acklo
 
-🙋‍♀️ Acklo help small, medium and large businesses and the public sector to secure the right service and support packages for cloud solutions and more.
+🙋‍♀️ Acklo help small, medium, large businesses and the public sector to secure the right service and support packages for cloud solutions and more.
 
-📧 If you have a question of a query please e-mail sales@acklo.com for all general queries or technical queries support@acklo.com.
+📧 If you have a question or a query, please e-mail sales@acklo.com or send technical queries to support@acklo.com.
 
 🌐 You can visit our website at [www.acklo.com](https://www.acklo.com).
 _____
